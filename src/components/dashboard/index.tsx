@@ -19,6 +19,7 @@ export const Dashboard = () => {
 
   return (
     <DashboardContent>
+      <div></div>
       <TextBox>
         <Text type="h4">Customize seu frasco</Text>
       </TextBox>
